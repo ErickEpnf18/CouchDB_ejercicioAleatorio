@@ -53,4 +53,5 @@ echo "Existe algo curioso, que cuando invertimos el print de la salida por conso
 
 ?>
 ```
+![Imagen ultima](img/4.png)
 :racehorse:
