@@ -3,7 +3,7 @@
 ["Rosita","Hugo","Paco", "Luis"]
 Insertar estos elementos en un Json cada uno utilizando un for en CouchDB
 2. Insertar 100 json de números randómicos a CouchDB
-3. 3.- Dada una lista de 10 nombres y otra lista de 10 apellidos, generar combinaciones al azar de las mismas e insertar 100 personas. Cada JSON debe tener, nombre, apellido y cédula(10 dígitos al azar)
+3. Dada una lista de 10 nombres y otra lista de 10 apellidos, generar combinaciones al azar de las mismas e insertar 100 personas. Cada JSON debe tener, nombre, apellido y cédula(10 dígitos al azar)
 
 ```ruby
 var1="Comenzemos"
